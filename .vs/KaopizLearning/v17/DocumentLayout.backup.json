@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KaopizLearning\\KaopizLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|d:\\kaopizlearning\\kaopizlearning\\demodeadlockconfigureawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|solutionrelative:demodeadlockconfigureawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundservicemonitor\\myservertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\myservertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundservicemonitor\\servicestatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\servicestatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|d:\\kaopizlearning\\kaopizlearning\\demodeadlockconfigureawait\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|solutionrelative:demodeadlockconfigureawait\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundclientmonitor\\myclienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|solutionrelative:backgroundclientmonitor\\myclienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundservicemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:126:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:122:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:123:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:125:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:124:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:121:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
+              "RelativeToolTip": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T06:18:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:06:36.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceMonitor\\Program.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\Program.cs",
+              "RelativeToolTip": "BackgroundServiceMonitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:46:05.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyClientTcp.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\MyClientTcp.cs",
+              "RelativeDocumentMoniker": "BackgroundClientMonitor\\MyClientTcp.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\MyClientTcp.cs",
+              "RelativeToolTip": "BackgroundClientMonitor\\MyClientTcp.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:50:58.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceStatusPublisher.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
+              "RelativeToolTip": "BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:16:30.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyServerTcp.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\MyServerTcp.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceMonitor\\MyServerTcp.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\MyServerTcp.cs",
+              "RelativeToolTip": "BackgroundServiceMonitor\\MyServerTcp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:47:09.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

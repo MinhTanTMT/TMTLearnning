@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAq8NOlLpIY=",
+  "success": true,
+  "projectFilePath": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

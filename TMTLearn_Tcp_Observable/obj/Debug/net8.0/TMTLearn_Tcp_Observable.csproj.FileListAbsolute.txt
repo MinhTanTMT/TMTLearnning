@@ -1,0 +1,17 @@
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\bin\Debug\net8.0\TMTLearn_Tcp_Observable.exe
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\bin\Debug\net8.0\TMTLearn_Tcp_Observable.deps.json
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\bin\Debug\net8.0\TMTLearn_Tcp_Observable.runtimeconfig.json
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\bin\Debug\net8.0\TMTLearn_Tcp_Observable.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\bin\Debug\net8.0\TMTLearn_Tcp_Observable.pdb
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\bin\Debug\net8.0\System.Reactive.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.csproj.AssemblyReference.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.GeneratedMSBuildEditorConfig.editorconfig
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.AssemblyInfoInputs.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.AssemblyInfo.cs
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.csproj.CoreCompileInputs.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn.89BDBAA6.Up2Date
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\refint\TMTLearn_Tcp_Observable.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.pdb
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\TMTLearn_Tcp_Observable.genruntimeconfig.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_Tcp_Observable\obj\Debug\net8.0\ref\TMTLearn_Tcp_Observable.dll

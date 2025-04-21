@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LCx3IYhqPY=",
+  "success": true,
+  "projectFilePath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

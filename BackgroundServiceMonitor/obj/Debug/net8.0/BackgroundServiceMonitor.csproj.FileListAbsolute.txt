@@ -1,0 +1,17 @@
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\bin\Debug\net8.0\BackgroundServiceMonitor.exe
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\bin\Debug\net8.0\BackgroundServiceMonitor.deps.json
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\bin\Debug\net8.0\BackgroundServiceMonitor.runtimeconfig.json
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\bin\Debug\net8.0\BackgroundServiceMonitor.dll
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\bin\Debug\net8.0\BackgroundServiceMonitor.pdb
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\bin\Debug\net8.0\System.Reactive.dll
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.csproj.AssemblyReference.cache
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.AssemblyInfoInputs.cache
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.AssemblyInfo.cs
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.csproj.CoreCompileInputs.cache
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\Backgrou.F1A9B8FB.Up2Date
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.dll
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\refint\BackgroundServiceMonitor.dll
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.pdb
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\BackgroundServiceMonitor.genruntimeconfig.cache
+D:\KaopizLearning\KaopizLearning\BackgroundServiceMonitor\obj\Debug\net8.0\ref\BackgroundServiceMonitor.dll

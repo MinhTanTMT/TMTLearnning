@@ -1,0 +1,17 @@
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\bin\Debug\net8.0\BackgroundClientMonitor.exe
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\bin\Debug\net8.0\BackgroundClientMonitor.deps.json
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\bin\Debug\net8.0\BackgroundClientMonitor.runtimeconfig.json
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\bin\Debug\net8.0\BackgroundClientMonitor.dll
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\bin\Debug\net8.0\BackgroundClientMonitor.pdb
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\bin\Debug\net8.0\System.Reactive.dll
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.csproj.AssemblyReference.cache
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.AssemblyInfoInputs.cache
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.AssemblyInfo.cs
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.csproj.CoreCompileInputs.cache
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\Backgrou.84B68F20.Up2Date
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.dll
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\refint\BackgroundClientMonitor.dll
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.pdb
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\BackgroundClientMonitor.genruntimeconfig.cache
+D:\KaopizLearning\KaopizLearning\BackgroundClientMonitor\obj\Debug\net8.0\ref\BackgroundClientMonitor.dll

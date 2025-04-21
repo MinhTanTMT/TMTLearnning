@@ -1,0 +1,17 @@
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\bin\Debug\net8.0\TMTLearn_TcpChatServer.exe
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\bin\Debug\net8.0\TMTLearn_TcpChatServer.deps.json
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\bin\Debug\net8.0\TMTLearn_TcpChatServer.runtimeconfig.json
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\bin\Debug\net8.0\TMTLearn_TcpChatServer.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\bin\Debug\net8.0\TMTLearn_TcpChatServer.pdb
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\bin\Debug\net8.0\System.Reactive.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.csproj.AssemblyReference.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.AssemblyInfoInputs.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.AssemblyInfo.cs
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.csproj.CoreCompileInputs.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn.56CB68EF.Up2Date
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\refint\TMTLearn_TcpChatServer.dll
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.pdb
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\TMTLearn_TcpChatServer.genruntimeconfig.cache
+D:\KaopizLearning\KaopizLearning\TMTLearn_TcpChatServer\obj\Debug\net8.0\ref\TMTLearn_TcpChatServer.dll
