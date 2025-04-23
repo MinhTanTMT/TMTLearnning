@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMtswumBsyg=",
+  "dgSpecHash": "Ee+l8Mdqtgg=",
   "success": true,
-  "projectFilePath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj",
+  "projectFilePath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj": {}
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj": {}
   },
   "projects": {
-    "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj": {
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj",
+        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj",
         "projectName": "BackgroundServiceMonitor",
-        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj",
+        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj",
         "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\obj\\",
+        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",

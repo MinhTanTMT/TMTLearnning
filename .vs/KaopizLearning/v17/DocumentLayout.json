@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KaopizLearning\\KaopizLearning\\",
+  "WorkspaceRootPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|d:\\kaopizlearning\\kaopizlearning\\demodeadlockconfigureawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\demodeadlockconfigureawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|solutionrelative:demodeadlockconfigureawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundservicemonitor\\myservertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\myservertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\backgroundservicemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundservicemonitor\\servicestatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\backgroundservicemonitor\\servicestatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\servicestatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|d:\\kaopizlearning\\kaopizlearning\\demodeadlockconfigureawait\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{82F71C2C-FCA8-4F4E-A1C3-8CD5B5938B22}|DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj|solutionrelative:demodeadlockconfigureawait\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\backgroundclientmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|solutionrelative:backgroundclientmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundclientmonitor\\myclienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\backgroundclientmonitor\\myclienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAFBF104-CC28-4980-8FAC-F2A9CAEBC41C}|BackgroundClientMonitor\\BackgroundClientMonitor.csproj|solutionrelative:backgroundclientmonitor\\myclienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\backgroundservicemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\backgroundservicemonitor\\myservertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66CB7EE-BA42-4372-AF3B-3FEF7F940F70}|BackgroundServiceMonitor\\BackgroundServiceMonitor.csproj|solutionrelative:backgroundservicemonitor\\myservertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674EAA91-A24E-4B56-B886-DDF1B278C140}|KaopizLearning\\KaopizLearning.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\kaopizlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674EAA91-A24E-4B56-B886-DDF1B278C140}|KaopizLearning\\KaopizLearning.csproj|solutionrelative:kaopizlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E52E91-3397-4ED8-9A27-2580DE508372}|TMTLearn_TcpChatServer\\TMTLearn_TcpChatServer.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\tmtlearn_tcpchatserver\\tcpchatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E52E91-3397-4ED8-9A27-2580DE508372}|TMTLearn_TcpChatServer\\TMTLearn_TcpChatServer.csproj|solutionrelative:tmtlearn_tcpchatserver\\tcpchatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713C63E-D076-434E-9F93-CED64153A0E5}|TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\tmtlearn_tcpchatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713C63E-D076-434E-9F93-CED64153A0E5}|TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj|solutionrelative:tmtlearn_tcpchatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425740F2-9482-4C27-A8A7-A43214D1C4CA}|TMTLearn_Tcp_Observable\\TMTLearn_Tcp_Observable.csproj|d:\\kaopizlearning\\kaopizlearning\\tmtlearnning\\tmtlearn_tcp_observable\\tcpobservablestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425740F2-9482-4C27-A8A7-A43214D1C4CA}|TMTLearn_Tcp_Observable\\TMTLearn_Tcp_Observable.csproj|solutionrelative:tmtlearn_tcp_observable\\tcpobservablestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,36 +127,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
-              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
-              "RelativeToolTip": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T06:18:32.878Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "BackgroundClientMonitor\\Program.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\Program.cs",
+              "RelativeToolTip": "BackgroundClientMonitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:18:10.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
               "RelativeToolTip": "DemoDEADLOCKConfigureAwait\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T04:06:36.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\Program.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\Program.cs",
               "RelativeDocumentMoniker": "BackgroundServiceMonitor\\Program.cs",
-              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\Program.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\Program.cs",
               "RelativeToolTip": "BackgroundServiceMonitor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T06:46:05.583Z"
             },
@@ -148,44 +165,92 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MyClientTcp.cs",
-              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\MyClientTcp.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\MyClientTcp.cs",
               "RelativeDocumentMoniker": "BackgroundClientMonitor\\MyClientTcp.cs",
-              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\MyClientTcp.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\MyClientTcp.cs",
               "RelativeToolTip": "BackgroundClientMonitor\\MyClientTcp.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T06:50:58.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TcpChatServer.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatServer\\TcpChatServer.cs",
+              "RelativeDocumentMoniker": "TMTLearn_TcpChatServer\\TcpChatServer.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatServer\\TcpChatServer.cs",
+              "RelativeToolTip": "TMTLearn_TcpChatServer\\TcpChatServer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:53:48.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\Program.cs",
+              "RelativeDocumentMoniker": "KaopizLearning\\Program.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\Program.cs",
+              "RelativeToolTip": "KaopizLearning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:39:19.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "TMTLearn_TcpChatClient\\Program.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatClient\\Program.cs",
+              "RelativeToolTip": "TMTLearn_TcpChatClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:39:42.224Z"
             }
           ]
         },
         {
           "DockedWidth": 98,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ServiceStatusPublisher.cs",
-              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
               "RelativeDocumentMoniker": "BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
-              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
               "RelativeToolTip": "BackgroundServiceMonitor\\ServiceStatusPublisher.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T08:16:30.452Z"
+              "WhenOpened": "2025-04-21T08:16:30.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyServerTcp.cs",
-              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\MyServerTcp.cs",
-              "RelativeDocumentMoniker": "BackgroundServiceMonitor\\MyServerTcp.cs",
-              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\BackgroundServiceMonitor\\MyServerTcp.cs",
-              "RelativeToolTip": "BackgroundServiceMonitor\\MyServerTcp.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA9wDMAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "TcpObservableStream.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Observable\\TcpObservableStream.cs",
+              "RelativeDocumentMoniker": "TMTLearn_Tcp_Observable\\TcpObservableStream.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Observable\\TcpObservableStream.cs",
+              "RelativeToolTip": "TMTLearn_Tcp_Observable\\TcpObservableStream.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T06:47:09.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T09:52:02.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyServerTcp.cs",
+              "DocumentMoniker": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\MyServerTcp.cs",
+              "RelativeDocumentMoniker": "BackgroundServiceMonitor\\MyServerTcp.cs",
+              "ToolTip": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundServiceMonitor\\MyServerTcp.cs",
+              "RelativeToolTip": "BackgroundServiceMonitor\\MyServerTcp.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:47:09.179Z"
             }
           ]
         }

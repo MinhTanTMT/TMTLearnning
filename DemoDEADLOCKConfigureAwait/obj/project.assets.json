@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj",
+      "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj",
       "projectName": "DemoDEADLOCKConfigureAwait",
-      "projectPath": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj",
+      "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\DemoDEADLOCKConfigureAwait\\DemoDEADLOCKConfigureAwait.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "D:\\KaopizLearning\\KaopizLearning\\DemoDEADLOCKConfigureAwait\\obj\\",
+      "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\DemoDEADLOCKConfigureAwait\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",

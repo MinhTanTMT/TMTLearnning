@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj",
+      "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj",
       "projectName": "TMTLearn_TcpChatClient",
-      "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj",
+      "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatClient\\TMTLearn_TcpChatClient.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_TcpChatClient\\obj\\",
+      "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_TcpChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",

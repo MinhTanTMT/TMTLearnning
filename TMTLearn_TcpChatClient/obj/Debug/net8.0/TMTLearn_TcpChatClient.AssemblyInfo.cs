@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TMTLearn_TcpChatClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124711866e5a0ac296c3773ccb32f36b5718ed5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TMTLearn_TcpChatClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TMTLearn_TcpChatClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

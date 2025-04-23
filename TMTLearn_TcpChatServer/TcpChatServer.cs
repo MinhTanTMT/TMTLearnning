@@ -25,6 +25,8 @@ namespace TMTLearn_TcpChatServer
         // Danh sách các stream để gửi message đến client
         private readonly ConcurrentBag<NetworkStream> _clientStreams = new(); // cái này hinh như dùng để thu gom các cái ip của các appClient để có thể gọi cho nó hay sao ấy
 
+        private readonly List<IDisposable> _subscriptions = new List<IDisposable>();
+
         public TcpChatServer(int port)
         {
             _port = port;
@@ -48,14 +50,11 @@ namespace TMTLearn_TcpChatServer
 
         private async Task HandleClientAsync(TcpClient client)
         {
-            var stream = client.GetStream(); 
-            _clientStreams.Add(stream); 
+            var stream = client.GetStream();
+            _clientStreams.Add(stream);
 
-            // Subcribe để nhận broadcast từ các client khác
             var subscription = _broadcastSubject.Subscribe(async message =>
             {
-
-                Console.WriteLine("Chạy Cái _broadcastSubject.");
                 try
                 {
                     byte[] data = Encoding.UTF8.GetBytes(message);
@@ -67,18 +66,19 @@ namespace TMTLearn_TcpChatServer
                 }
             });
 
-            var buffer = new byte[4]; 
+            _subscriptions.Add(subscription); // Lưu subscription để có thể unsubscribe sau này
+
+            var buffer = new byte[4];
             try
             {
                 while (true)
                 {
-                    int bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length); 
+                    int bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length);
                     if (bytesRead == 0) break;
 
-                    string message = Encoding.UTF8.GetString(buffer, 0, bytesRead); // cái này thì hình như là lấy được data bằng cách kết hợp buffer và bytesRead
+                    string message = Encoding.UTF8.GetString(buffer, 0, bytesRead);
                     Console.WriteLine($"[SERVER] Received: {message}");
 
-                    // Broadcast cho tất cả client
                     _broadcastSubject.OnNext(message);
                 }
             }
@@ -88,10 +88,22 @@ namespace TMTLearn_TcpChatServer
             }
             finally
             {
-                subscription.Dispose();
+                subscription.Dispose(); // Unsubscribe khi client ngắt
+                _subscriptions.Remove(subscription); // Xóa khỏi danh sách
                 client.Close();
                 Console.WriteLine("[SERVER] Client disconnected.");
             }
+        }
+
+        // Hàm để unsubscribe tất cả subscriptions chủ động
+        private void UnsubscribeAll()
+        {
+            foreach (var sub in _subscriptions)
+            {
+                sub.Dispose();
+            }
+            _subscriptions.Clear();
+            Console.WriteLine("Đã hủy tất cả subscriptions.");
         }
     }
 

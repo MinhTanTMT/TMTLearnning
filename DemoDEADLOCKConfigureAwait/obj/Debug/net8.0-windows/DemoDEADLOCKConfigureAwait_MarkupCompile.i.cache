@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\KaopizLearning\KaopizLearning\DemoDEADLOCKConfigureAwait\obj\Debug\net8.0-windows\
+D:\KaopizLearning\KaopizLearning\TMTLearnning\DemoDEADLOCKConfigureAwait\obj\Debug\net8.0-windows\
 DemoDEADLOCKConfigureAwait
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\KaopizLearning\KaopizLearning\DemoDEADLOCKConfigureAwait\App.xaml
+D:\KaopizLearning\KaopizLearning\TMTLearnning\DemoDEADLOCKConfigureAwait\App.xaml
 11407045341
 
 6634129393
 198-556154604
 MainWindow.xaml;
 
-True
+False
 

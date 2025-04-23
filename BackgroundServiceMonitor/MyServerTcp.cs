@@ -23,7 +23,7 @@ namespace BackgroundServiceMonitor
 
         public async Task StartMyServer()
         {
-            _listener = new TcpListener(IPAddress.Loopback,_port);
+            _listener = new TcpListener(IPAddress.Loopback, _port);
             _listener.Start();
             Console.WriteLine($"Lang nghe cong {_port}");
 
@@ -76,20 +76,21 @@ namespace BackgroundServiceMonitor
 
             subscription.Dispose();
         }
-
-
-        private async Task DelayMyWork()
-        {
-            await Task.Delay(5000);
-            Console.WriteLine("Đã xử lý xong công việc nặng");
-        }
-
-
-        private async Task UIPrint()
-        {
-            await Task.Delay(2000);
-            Console.WriteLine("My UI");
-        }
-
     }
+
+
+    //    private async Task DelayMyWork()
+    //    {
+    //        await Task.Delay(5000);
+    //        Console.WriteLine("Đã xử lý xong công việc nặng");
+    //    }
+
+
+    //    private async Task UIPrint()
+    //    {
+    //        await Task.Delay(2000);
+    //        Console.WriteLine("My UI");
+    //    }
+
+    //}
 }

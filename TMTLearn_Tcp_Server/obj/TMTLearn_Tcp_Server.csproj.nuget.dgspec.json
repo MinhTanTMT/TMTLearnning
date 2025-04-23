@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj": {}
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj": {}
   },
   "projects": {
-    "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj": {
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj",
+        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj",
         "projectName": "TMTLearn_Tcp_Server",
-        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj",
+        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Server\\TMTLearn_Tcp_Server.csproj",
         "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Server\\obj\\",
+        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",

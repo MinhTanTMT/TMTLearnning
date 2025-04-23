@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj": {}
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj": {}
   },
   "projects": {
-    "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj": {
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj",
+        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj",
         "projectName": "BackgroundClientMonitor",
-        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj",
+        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\BackgroundClientMonitor.csproj",
         "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\BackgroundClientMonitor\\obj\\",
+        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\BackgroundClientMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",

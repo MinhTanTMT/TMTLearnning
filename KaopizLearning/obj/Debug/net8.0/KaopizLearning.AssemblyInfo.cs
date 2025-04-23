@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KaopizLearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124711866e5a0ac296c3773ccb32f36b5718ed5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KaopizLearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KaopizLearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

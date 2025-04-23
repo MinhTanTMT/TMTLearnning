@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KaopizLearning\\KaopizLearning\\KaopizLearning\\KaopizLearning.csproj": {}
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\KaopizLearning.csproj": {}
   },
   "projects": {
-    "D:\\KaopizLearning\\KaopizLearning\\KaopizLearning\\KaopizLearning.csproj": {
+    "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\KaopizLearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\KaopizLearning\\KaopizLearning.csproj",
+        "projectUniqueName": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\KaopizLearning.csproj",
         "projectName": "KaopizLearning",
-        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\KaopizLearning\\KaopizLearning.csproj",
+        "projectPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\KaopizLearning.csproj",
         "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\KaopizLearning\\obj\\",
+        "outputPath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\KaopizLearning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",

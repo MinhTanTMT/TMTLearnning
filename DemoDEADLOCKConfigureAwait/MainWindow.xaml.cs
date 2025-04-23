@@ -59,10 +59,14 @@ namespace DemoDEADLOCKConfigureAwait
             {
                 MessageBox.Show($"Lỗi: {ex.Message}");
             }
-
-
         }
 
+        private async Task<string> GetDataAsync()
+        {
+            await Task.Delay(1000).ConfigureAwait(false); // tránh deadlock
+            //await Task.Delay(1000); // bị deadlock
+            return "Done!";
+        }
 
         private async Task PushDataAsync()
         {
@@ -73,12 +77,7 @@ namespace DemoDEADLOCKConfigureAwait
         }
 
 
-        private async Task<string> GetDataAsync()
-        {
-            await Task.Delay(1000).ConfigureAwait(false); // tránh deadlock
-            //await Task.Delay(1000);
-            return "Done!";
-        }
+
 
         //Đợi server phản hồi trong thời gian giới hạn (timeout). Nếu quá thời gian thì tự huỷ.
         private async Task<string> WaitForResponseAsync(TimeSpan timeout)

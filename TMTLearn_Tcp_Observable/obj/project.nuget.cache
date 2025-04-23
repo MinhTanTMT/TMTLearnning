@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fJQItDY/wMY=",
+  "dgSpecHash": "MUGhCj5qPoc=",
   "success": true,
-  "projectFilePath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearn_Tcp_Observable\\TMTLearn_Tcp_Observable.csproj",
+  "projectFilePath": "D:\\KaopizLearning\\KaopizLearning\\TMTLearnning\\TMTLearn_Tcp_Observable\\TMTLearn_Tcp_Observable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
   ],
